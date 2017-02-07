@@ -119,7 +119,7 @@ div.img:hover {
 }
 
 div.img img {
-    width: 100%;
+    width: fixed;
     height: fixed;
 }
 
